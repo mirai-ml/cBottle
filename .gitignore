@@ -180,3 +180,6 @@ pyrightconfig.json
 *.nc
 .filedump
 www
+*.out
+*.err
+.nfs*
